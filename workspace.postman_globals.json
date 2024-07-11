@@ -1,0 +1,21 @@
+{
+	"id": "058171ad-d3a9-4abc-8f4a-d82ccb1e5f37",
+	"values": [
+		{
+			"key": "page",
+			"value": "1",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "np",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2024-06-13T18:56:43.572Z",
+	"_postman_exported_using": "Postman/11.2.1"
+}
